@@ -18,7 +18,7 @@ Starter code provided by UCF Continuing Education
 
 ## Demonstration
 
-demo-video.mp4
+https://github.com/koberstine/readme-generator/blob/main/demo-video.mp4
 
 ## License
 
