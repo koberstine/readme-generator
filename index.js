@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-const { writeToFile } = require('./utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -71,6 +71,11 @@ const questions = [
       }
     },
     {
+      type: 'input',
+      name: 'credits',
+      message: 'Who do you want to credit for contributing to the project',
+    },
+    {
       type: 'list',
       name: 'license',
       message: 'Choose a license for the project',
@@ -80,7 +85,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  fs.writeFile('./README.md', generateMarkdown(data), err => {
+  fs.writeFile(fileName, generateMarkdown(data), err => {
     if (err) throw err;
 
     console.log('Readme file generated! Check out README.md to see output!')
