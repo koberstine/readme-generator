@@ -972,8 +972,9 @@ limitations under the License.`;
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  ${renderLicenseBadge(data.license)}
-  return `# ${data.title}
+ 
+  return `${renderLicenseBadge(data.license)}
+  # ${data.title}
 
   ## Description
 
