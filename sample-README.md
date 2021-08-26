@@ -1,10 +1,10 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 # Imaginary Project
 
 ## Description
 
-This project exists solely in the mind of the creator and does nothing at this time.
+A project existing only in the imagination of the coder, which has not been created yet
 
 ## Table of Contents
 
@@ -17,19 +17,18 @@ This project exists solely in the mind of the creator and does nothing at this t
 
   ## Installation
 
-  Download source files, navigate to the main directory in the console, run 'npm install'
+  Download source files, navigate in console to the main directory, run 'npm install'
 
   ## Usage
 
-  Run 'node index' from the console in the main directory
+  In the main directory, run 'node index' in the main directory
 
   ## Credits
 
-  This project is the sole property of my imagination
+  My imagination
 
   ## License
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [https://www.mit.edu/~amini/LICENSE.md](https://www.mit.edu/~amini/LICENSE.md)
   MIT License
 
@@ -55,7 +54,7 @@ This project exists solely in the mind of the creator and does nothing at this t
 
   ## Contributing
 
-  No contributions are accepted for this project at this time
+  No contributions to the project are being accepted at this time
 
   ## Tests
 
@@ -63,6 +62,6 @@ This project exists solely in the mind of the creator and does nothing at this t
 
   ## Questions
 
-  Github: [koberstine](https://github.com/koberstine/]
+  Github: [koberstine](https://github.com/koberstine/)
 
   Please submit any additional questions via email to koberstine@hotmail.com
