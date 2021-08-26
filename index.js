@@ -7,6 +7,32 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [
     {
       type: 'input',
+      name: 'github',
+      message: 'What is your Github username? (Required)',
+      validate: githubInput => {
+        if (githubInput) {
+          return true;
+        } else {
+          console.log('You need to enter a file name!');
+          return false;
+        }
+      }
+    },
+    {
+      type: 'input',
+      name: 'email',
+      message: 'What is your email address? (Required)',
+      validate: emailInput => {
+        if (emailInput) {
+          return true;
+        } else {
+          console.log('You need to enter a file name!');
+          return false;
+        }
+      }
+    },
+    {
+      type: 'input',
       name: 'name',
       message: 'What do you want to name this file? Example: README.md (Required)',
       validate: nameInput => {
@@ -73,13 +99,23 @@ const questions = [
     {
       type: 'input',
       name: 'credits',
-      message: 'Who do you want to credit for contributing to the project',
+      message: 'Who do you want to credit for contributing to the project?',
     },
     {
       type: 'list',
       name: 'license',
       message: 'Choose a license for the project',
       choices: ['MIT License', 'GNU GPLv3', 'Apache License 2.0', 'The Unlicense', 'none']
+    },
+    {
+      type: 'input',
+      name: 'contributing',
+      message: 'Provide instructions for others to contribute to the project',
+    },
+    {
+      type: 'input',
+      name: 'tests',
+      message: 'List any tests written for the project with examples of how to use them',
     }
 ];
 
