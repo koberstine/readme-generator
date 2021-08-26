@@ -1,66 +1,70 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-  # Imaginary Project
 
-  ## Description
+# Imaginary Project
 
-  A project existing only in the imagination of the coder, which has not been created yet
+## Description
 
-  ## Table of Contents
-  
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+A project that exists only in the mind of the creator and has not yet been written.
 
-  ## Installation
+## Table of Contents
 
-  Download source files, navigate in console to the main directory, run 'npm install'
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
 
-  ## Usage
+## Installation
 
-  In the main directory, run 'node index' in the main directory 
+Download source files, navigate in console to main project directory, run 'npm install'
 
-  ## Credits
+## Usage
 
-  My imagination
+Navigate in console to main directory of project, run 'node index'
 
-  ## License
+## Credits
 
-  [https://www.mit.edu/~amini/LICENSE.md](https://www.mit.edu/~amini/LICENSE.md)
-  MIT License
+My imagination
 
-    Copyright (c) [year] [fullname]
-    
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+## License
 
-  ## Contributing
+[https://unlicense.org](https://unlicense.org)
+This is free and unencumbered software released into the public domain.
 
-  No contributions to the project are being accepted at this time
+    Anyone is free to copy, modify, publish, use, compile, sell, or
+    distribute this software, either in source code form or as a compiled
+    binary, for any purpose, commercial or non-commercial, and by any
+    means.
 
-  ## Tests
+    In jurisdictions that recognize copyright laws, the author or authors
+    of this software dedicate any and all copyright interest in the
+    software to the public domain. We make this dedication for the benefit
+    of the public at large and to the detriment of our heirs and
+    successors. We intend this dedication to be an overt act of
+    relinquishment in perpetuity of all present and future rights to this
+    software under copyright law.
 
-  No tests have been written for this project
-  
-  ## Questions
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+    IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+    OTHER DEALINGS IN THE SOFTWARE.
 
-  Github: [koberstine](https://github.com/koberstine/)
-  
-  Please submit any additional questions via email to koberstine@hotmail.com
+    For more information, please refer to <http://unlicense.org/>
+
+## Contributing
+
+No contributions to this project are being accepted at this time
+
+## Tests
+
+No tests have been written for this project
+
+## Questions
+
+Github: [koberstine](https://github.com/koberstine/)
+
+Please submit any additional questions via email to koberstine@hotmail.com
